@@ -6,7 +6,7 @@ body {
     background-color: #191919;
 }
 .carousel-item {
-    height: 100vh; /* 50% da altura da janela do navegador */
+    height: 100vh; /* 100% da altura da janela do navegador */
     overflow: hidden;
   }
   
